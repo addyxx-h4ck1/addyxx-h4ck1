@@ -1,4 +1,6 @@
 ## Hi there 👋
+<a href="https://app.daily.dev/briann_bn"><img src="./devcard.png" width="356" alt="briann_bn's Dev Card"/></a>
+
 
 <!--
 **addyxx-h4ck1/addyxx-h4ck1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
