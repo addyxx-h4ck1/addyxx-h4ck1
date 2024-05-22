@@ -1,6 +1,5 @@
 ## Hi there 👋
-
-<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@bn_briann" data-unique-id="bn_briann" data-embed-type="creator" style="max-width: 780px; min-width: 288px;" > <section> <a target="_blank" href="https://www.tiktok.com/@bn_briann?refer=creator_embed">@bn_briann</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+<img src="./Screenshot_2024-02-24_16-20-37.png" width="100%" alt="briann_bn's Dev Card"/>
 
 ## My DailyDev Profile
 <a href="https://app.daily.dev/addyxx-h4ck1?type=wide&r=z1k"><img src="./devcard.png" width="356" alt="briann_bn's Dev Card"/></a>
