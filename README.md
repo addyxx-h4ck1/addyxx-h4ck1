@@ -1,5 +1,5 @@
 ## Hi there 👋
-<a href="https://app.daily.dev/briann_bn"><img src="./devcard.png" width="356" alt="briann_bn's Dev Card"/></a>
+<a href="https://app.daily.dev/addyxx-h4ck1"><img src="./devcard.png" width="356" alt="briann_bn's Dev Card"/></a>
 
 
 <!--
