@@ -2,7 +2,7 @@
 <a href="https://www.tiktok.com/@bn_briann?lang=en"><img src="./Screenshot_2024-02-24_16-20-37.png" width="100%" alt="briann_bn's Dev Card"/></a>
 
 ## My DailyDev Profile
-<a href="https://app.daily.dev/addyxx-h4ck1?type=wide&r=z1k"><img src="./devcard.png" width="356" alt="briann_bn's Dev Card"/></a>
+<a href="https://app.daily.dev/briann_bn"><img src="https://api.daily.dev/devcards/v2/z4Awl6x8p05RvkxHAGXaO.png?type=default&r=xr4" width="356" alt="Brian Njoroge's Dev Card"/></a>
 
 
 <!--
