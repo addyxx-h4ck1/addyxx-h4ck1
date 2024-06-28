@@ -1,21 +1,20 @@
-## Hi there 👋
-<a href="https://www.tiktok.com/@bn_briann?lang=en"><img src="./Screenshot_2024-02-24_16-20-37.png" width="100%" alt="briann_bn's Dev Card"/></a>
+### Full Stack JavaScript Developer
 
-## My DailyDev Profile
-<a href="https://app.daily.dev/briann_bn"><img src="https://api.daily.dev/devcards/v2/z4Awl6x8p05RvkxHAGXaO.png?type=default&r=xr4" width="356" alt="Brian Njoroge's Dev Card"/></a>
+👋 Hi, I'm Brian Njoroge, a passionate Full Stack JavaScript Developer with expertise in building scalable web applications and dynamic user experiences. With a strong foundation in both front-end and back-end technologies, I thrive on solving complex problems and delivering high-quality software solutions.
 
+#### 🔧 Technologies & Tools:
+- **Front-end:** React, Next.js,  HTML5, CSS3, SASS,  Tailwind CSS
+- **Back-end:** Node.js, Express.js, MongoDB, PostgreSQL, GraphQL, REST APIs
+- **DevOps:** Docker, Jenkins, Git,
+- **Testing:** Jest, Mocha, Chai, Cypress, Selenium
+- **Other:** TypeScript, Webpack, Babel, Redux, WebSockets
 
-<!--
-**addyxx-h4ck1/addyxx-h4ck1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🌟 Key Projects:
+- **PixelrArt:** A  fullstack social platform for photographers where they can share creativity and interact with each other. see demo [here](http://main--photoapptest.netlify.app/)
 
-Here are some ideas to get you started:
+#### 📫 How to reach me:
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/brian-njoroge-550492283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email:** [Email](business.briann@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Let's build something amazing together!
+
