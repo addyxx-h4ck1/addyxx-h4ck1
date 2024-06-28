@@ -13,6 +13,7 @@
 - **PixelrArt:** A  fullstack social platform for photographers where they can share creativity and interact with each other. see demo [here](http://main--photoapptest.netlify.app/)
 
 #### 📫 How to reach me:
+- **Portfolio:** [My portfolio](https://addyxx-h4ck1.github.io/Myportfolio/)
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/brian-njoroge-550492283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email:** [Email](business.briann@gmail.com)
 
