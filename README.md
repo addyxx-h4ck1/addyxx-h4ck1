@@ -10,11 +10,11 @@
 
 ###
 <ul>
-<li align="left">PixelrArt: A fullstack social platform for photographers where they can share creativity and interact with each other. see demo <a href='http://main--photoapptest.netlify.app/'>here</a></li>
-  <li align="left">Gallery0: A fullstack personal photo sharing app. see demo <a href='http://main--photoapptest.netlify.app/'>here</a></li>
-  <li align="left">Github Users App: This is an open-source project where you can get and display information about github users. see demo <a href='https://project-t13-github-api.netlify.app/'>here</a></li>
-    <li align="left">Nginx Setup Guide: Step by step guide on how to host web app and web server locally using nginx. see repo <a href='https://github.com/addyxx-h4ck1/Nginx-Setup/'>here</a></li>
-   <li align="left">Gmail Client: Send email using the gmail API and Nodemailer. see repo <a href='https://github.com/addyxx-h4ck1/Gmail-Service-API/'>here</a></li>
+<li align="left"><strong>PixelrArt:</strong> A fullstack social platform for photographers where they can share creativity and interact with each other. see demo <a href='http://main--photoapptest.netlify.app/'>here</a></li>
+  <li align="left"><strong>Gallery0:</strong> A fullstack personal photo sharing app. see demo <a href='https://mygallery0.onrender.com/'>here</a></li>
+  <li align="left"><strong>Github Users App:</strong> This is an open-source project where you can get and display information about github users. see demo <a href='https://project-t13-github-api.netlify.app/'>here</a></li>
+    <li align="left"><strong>Nginx Setup Guide:</strong> Step by step guide on how to host web app and web server locally using nginx. see repo <a href='https://github.com/addyxx-h4ck1/Nginx-Setup/'>here</a></li>
+   <li align="left"><strong>Gmail Client:</strong> Send email using the gmail API and Nodemailer. see repo <a href='https://github.com/addyxx-h4ck1/Gmail-Service-API/'>here</a></li>
 </ul>
 
 ###
