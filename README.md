@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Brian Njoroge, a passionate Full Stack JavaScript Developer with expertise in building scalable web applications and dynamic user experiences.</p>
+<p align="left">👋 Hi, I'm Brian , a passionate Full Stack JavaScript Developer with expertise in building scalable web applications and dynamic user experiences.</p>
 
 ###
 
